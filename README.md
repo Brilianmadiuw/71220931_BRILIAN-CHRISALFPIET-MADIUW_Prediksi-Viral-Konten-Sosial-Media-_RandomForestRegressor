@@ -1,11 +1,12 @@
 # 71220931_BRILIAN-CHRISALFPIET-MADIUW_Prediksi-Viral-Konten-Sosial-Media-_RandomForestRegressor
 
+## link google collab
+https://colab.research.google.com/drive/1zaZJFl4CIEi1LEyfYfxT_GdQ0p2PaKRE?usp=sharing
+
 ## screenshot hasil
+![image](https://github.com/Brilianmadiuw/71220931_BRILIAN-CHRISALFPIET-MADIUW_Prediksi-Viral-Konten-Sosial-Media-_RandomForestRegressor/assets/117911653/12727696-ce30-414a-9b47-c6216b24c45f)
+![image](https://github.com/Brilianmadiuw/71220931_BRILIAN-CHRISALFPIET-MADIUW_Prediksi-Viral-Konten-Sosial-Media-_RandomForestRegressor/assets/117911653/d42fc049-9957-43bf-b76f-5e3ede3068a6)
+![image](https://github.com/Brilianmadiuw/71220931_BRILIAN-CHRISALFPIET-MADIUW_Prediksi-Viral-Konten-Sosial-Media-_RandomForestRegressor/assets/117911653/f8839bd7-2b02-4d5e-ab3a-601844cce3df)
+![Uploading image.png…]()
+![Uploading image.png…]()
 
-![image](https://github.com/Brilianmadiuw/71220931_BRILIAN-CHRISALFPIET-MADIUW_Prediksi-Viral-Konten-Sosial-Media-_RandomForestRegressor/assets/117911653/ccf6569e-47ca-4456-82ce-91f448c7e15e)
-
-![image](https://github.com/Brilianmadiuw/71220931_BRILIAN-CHRISALFPIET-MADIUW_Prediksi-Viral-Konten-Sosial-Media-_RandomForestRegressor/assets/117911653/b4d3f9c1-dc1c-48a7-b311-df9b89e88419)
-![image](https://github.com/Brilianmadiuw/71220931_BRILIAN-CHRISALFPIET-MADIUW_Prediksi-Viral-Konten-Sosial-Media-_RandomForestRegressor/assets/117911653/9523d19a-fb1c-4235-a6eb-d564c7142e48)
-![image](https://github.com/Brilianmadiuw/71220931_BRILIAN-CHRISALFPIET-MADIUW_Prediksi-Viral-Konten-Sosial-Media-_RandomForestRegressor/assets/117911653/8c463492-018f-4613-847d-42bb9ee166ab)
-![image](https://github.com/Brilianmadiuw/71220931_BRILIAN-CHRISALFPIET-MADIUW_Prediksi-Viral-Konten-Sosial-Media-_RandomForestRegressor/assets/117911653/f7c28066-4d2a-4ab9-8a98-744eabb72753)
-![image](https://github.com/Brilianmadiuw/71220931_BRILIAN-CHRISALFPIET-MADIUW_Prediksi-Viral-Konten-Sosial-Media-_RandomForestRegressor/assets/117911653/321cfc97-799a-4386-8d51-1eca0b855658)
